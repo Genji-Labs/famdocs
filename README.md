@@ -1,2 +1,3 @@
-# famdocs
-AES-CBC 256 bit encrypted file sharing system for family documents.
+A file collaboration tool.
+
+You need firebase options file and other keys for firebase setup if you are running your own build.

@@ -22,6 +22,16 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+.dart_tool/
+dart_tool/
+.dart_tool/flutter_builds/
+.idea/
+firebase.json
+lib/firebase_options.dart
+famdocs.iml
+pubspec.lock
+devtools_options.yaml
+analysis_options.yaml
 
 .flutter-plugins
 .flutter-plugins-dependencies
